@@ -13,5 +13,5 @@ Purpose of the game: build an anthill of a given size. To do this, you need to c
 
 You can play as any type of ant or enemies. When playing as the ant queen, the anthill itself and all the other ants will move behind you - they are your retinue! ;)
 
-> [!NOTE]\
+> [!WARNING]\
 > The source code is encrypted - don't be alarmed, this is not a mistake, I did it on purpose. I don't want to publish the source code itself, but from these files you can understand the size of the project and its complexity.
