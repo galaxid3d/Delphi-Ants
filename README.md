@@ -1,5 +1,5 @@
 # Delphi-Ants
-Game "Ants" start create by 04.2017
+Game "Ants" start create by 03.2017
 
 Purpose of the game: build an anthill of a given size. To do this, you need to collect parts for the anthill using worker ants.
 #### Ants specialization
